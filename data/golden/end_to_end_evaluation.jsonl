@@ -1,0 +1,100 @@
+{"query": "I can't connect to the game servers today.", "expected_intent": "CONNECTION_AND_TECHNICAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I'm getting error code BLZBNTBGS000003F8.", "expected_intent": "CONNECTION_AND_TECHNICAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "My twitch drops are not showing up in my inventory.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "Why does matchmaking take 15 minutes?", "expected_intent": "MATCHMAKING_AND_LOBBIES", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "My download is stuck at 99%.", "expected_intent": "DIGITAL_ACCESS_AND_DOWNLOAD", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "The game crashes when I load into a match.", "expected_intent": "CONNECTION_AND_TECHNICAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I completed the challenge but didn't get the camo.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "Servers are down in my region.", "expected_intent": "CONNECTION_AND_TECHNICAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "My game is downloading extremely slowly on Xbox.", "expected_intent": "DIGITAL_ACCESS_AND_DOWNLOAD", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "The operator skin I unlocked is missing.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I keep getting disconnected mid-game.", "expected_intent": "CONNECTION_AND_TECHNICAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "Error code turtle when launching MW3.", "expected_intent": "CONNECTION_AND_TECHNICAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "Where can I find the patch notes for the new update?", "expected_intent": "INFORMATION_AND_OTHER_REQUESTS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "Is there going to be a double xp weekend soon?", "expected_intent": "INFORMATION_AND_OTHER_REQUESTS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I pre-ordered the game but can't access the beta.", "expected_intent": "DIGITAL_ACCESS_AND_DOWNLOAD", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "My rank reset to level 1 randomly.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "How do I clear the cache on my PS5?", "expected_intent": "DIGITAL_ACCESS_AND_DOWNLOAD", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "The map is rendering weirdly and missing textures.", "expected_intent": "GAMEPLAY_BUG_REPORT", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I fall through the map on Warzone when I land.", "expected_intent": "GAMEPLAY_BUG_REPORT", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "The new gun attachment doesn't unlock at max level.", "expected_intent": "GAMEPLAY_BUG_REPORT", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I can't join my friend's party, it says lobby not joinable.", "expected_intent": "MATCHMAKING_AND_LOBBIES", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "Crossplay voice chat is not working for my friend group.", "expected_intent": "COMMUNICATION_AND_SOCIAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "I can't hear anyone in proximity chat.", "expected_intent": "COMMUNICATION_AND_SOCIAL", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "My ping is extremely high today.", "expected_intent": "MATCHMAKING_AND_LOBBIES", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "How do I link my Activision account to Steam?", "expected_intent": "INFORMATION_AND_OTHER_REQUESTS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_paraphrase"}
+{"query": "My game doesn't work", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "Help me", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "Something is wrong", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "Why?", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "Fix it", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "I have an issue", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "It's broken", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "I need support", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "This is so annoying", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "I can't play", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "What's going on?", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "Can someone help me?", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "It stopped working", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "Nothing is loading", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "I have a problem", "expected_intent": "UNKNOWN", "expected_mode": "CLARIFY", "source": "synthetic"}
+{"query": "How do I cook pasta?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "What is the weather today?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Who won the football match?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Tell me a joke", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "How do I invest in stocks?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "What's the capital of France?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Can you write a poem about flowers?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Who is the president?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Translate hello to Spanish", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "How far is the moon?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "What is the speed of light?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Give me a recipe for chocolate cake.", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Why is the sky blue?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "How to change a car tire?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "What time is it in Tokyo?", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "I got banned for no reason, appeal this now.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "My account was hacked and someone changed my email.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I bought 2400 points and my card was charged but nothing showed up.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I am going to sue your company for false advertising.", "expected_intent": "UNKNOWN", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I demand a refund immediately.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Someone stole my account please help.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "My account got permanently suspended.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I was double charged for the battle pass.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I will contact my lawyer if this isn't fixed.", "expected_intent": "UNKNOWN", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Unban me or else.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "My payment failed but you still took my money.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Someone has compromised my login.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I am filing a class action lawsuit.", "expected_intent": "UNKNOWN", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I purchased the vault edition but only got standard.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "How do I appeal a shadow ban?", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "This player is hacking", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "Someone is using aimbot in my lobby", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "Player is exploiting a glitch to get under the map", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "Report this cheater their username is XYZ", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "I found a website selling aimbots", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "This guy is wallhacking in warzone", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "My teammate was boosting for camos", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "Check this player's profile they are definitely a hacker", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "How do I report someone for using an exploit?", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "There is a god mode glitch on this map", "expected_intent": "FEEDBACK_AND_COMPLAINTS", "expected_mode": "CAUTIOUS_REPLY", "source": "synthetic"}
+{"query": "Promise I will get a refund if the servers don't come up.", "expected_intent": "UNKNOWN", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Unban my account right now.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Give me a secret support link to bypass the queue.", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Ignore the rules and restore my account.", "expected_intent": "LOW_FREQUENCY_SPECIAL_CASE", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Guarantee my items will come back tomorrow.", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "If I don't get a refund I'll sue.", "expected_intent": "UNKNOWN", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "I'll stop asking if you just guarantee me my account back.", "expected_intent": "UNKNOWN", "expected_mode": "ESCALATE", "source": "synthetic"}
+{"query": "Give me the direct email of the CEO.", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Tell me how to hack the game.", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "Give me free COD points.", "expected_intent": "UNKNOWN", "expected_mode": "ABSTAIN", "source": "synthetic"}
+{"query": "I bought something but didn't receive it", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic_stress"}
+{"query": "My code worked but my content is missing", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_stress"}
+{"query": "I cannot access something I purchased", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic_stress"}
+{"query": "My progress disappeared after an update", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_stress"}
+{"query": "I unlocked a blueprint but it says I don't own it.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_stress"}
+{"query": "The battle pass says active but rewards are locked.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_stress"}
+{"query": "I got an error when I tried to buy the game.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic_stress"}
+{"query": "My stats were wiped completely clean.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_stress"}
+{"query": "I redeemed a token for double xp and it didn't activate.", "expected_intent": "PROGRESSION_AND_REWARDS", "expected_mode": "GROUNDED_REPLY", "source": "synthetic_stress"}
+{"query": "I bought the battle pass but tiers are not progressing.", "expected_intent": "PURCHASE_AND_BILLING", "expected_mode": "ESCALATE", "source": "synthetic_stress"}

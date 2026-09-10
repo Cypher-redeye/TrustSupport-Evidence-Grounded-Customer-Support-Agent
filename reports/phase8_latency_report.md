@@ -1,0 +1,1 @@
+# Phase 8 Latency Benchmark Report\n\n**Test Conditions:** 50 sequential queries (CPU/Template Fallback Generator)\n\n| Component | Average Latency (ms) |\n|---|---|\n| Intent Classification & Risk | 0.00 ms |\n| FAISS Evidence Retrieval | 0.00 ms |\n| Reply Generation (Template) | 0.00 ms |\n| **Total End-to-End Latency** | **26.66 ms** |

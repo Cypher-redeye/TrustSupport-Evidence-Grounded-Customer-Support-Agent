@@ -1,0 +1,870 @@
+{
+  "brand": "ATVIAssist",
+  "metrics": {
+    "total_relevant_tweets": 48351,
+    "brand_tweets": 17650,
+    "customer_tweets_total": 30701,
+    "customer_inbound_tweets": 30521,
+    "customer_included": 30701,
+    "customer_excluded": 0,
+    "total_conversations": 11113,
+    "complete_conversations": 4726,
+    "partial_conversations": 6387,
+    "orphaned_tweets": 0,
+    "missing_parent_convs": 71,
+    "missing_child_convs": 672,
+    "cycle_dropped_convs": 0,
+    "multi_turn_count": 4726,
+    "avg_depth": 3.1975164222082246,
+    "median_depth": 2,
+    "max_depth": 32,
+    "multi_turn_ratio": 0.42526770449023665,
+    "length_distribution": {
+      "2": 5648,
+      "4": 1268,
+      "3": 1938,
+      "5": 623,
+      "6": 435,
+      "40": 4,
+      "16": 24,
+      "14": 32,
+      "11": 93,
+      "10": 88,
+      "9": 149,
+      "17": 21,
+      "8": 210,
+      "7": 255,
+      "13": 54,
+      "46": 4,
+      "54": 3,
+      "44": 2,
+      "12": 60,
+      "18": 17,
+      "50": 1,
+      "23": 8,
+      "15": 31,
+      "30": 4,
+      "61": 2,
+      "66": 1,
+      "65": 2,
+      "197": 1,
+      "1390": 1,
+      "24": 13,
+      "179": 1,
+      "26": 5,
+      "29": 5,
+      "20": 15,
+      "285": 1,
+      "19": 14,
+      "217": 1,
+      "33": 5,
+      "402": 1,
+      "21": 11,
+      "38": 3,
+      "35": 1,
+      "85": 1,
+      "110": 2,
+      "57": 1,
+      "60": 3,
+      "22": 6,
+      "25": 4,
+      "128": 2,
+      "67": 2,
+      "74": 2,
+      "661": 1,
+      "32": 2,
+      "111": 1,
+      "34": 3,
+      "58": 1,
+      "31": 4,
+      "56": 1,
+      "64": 1,
+      "98": 1,
+      "193": 1,
+      "176": 1,
+      "235": 1,
+      "84": 1,
+      "49": 2,
+      "227": 1,
+      "109": 1,
+      "43": 1,
+      "125": 1,
+      "76": 1,
+      "41": 3,
+      "82": 1,
+      "196": 1,
+      "47": 1,
+      "135": 1,
+      "92": 1,
+      "28": 1
+    }
+  },
+  "sampled_conversations": {
+    "conv_2249586": [
+      {
+        "tweet_id": "2249586",
+        "author_id": "655475",
+        "inbound": true,
+        "text": "@ATVIAssist when can I have my xp back guys? Been waiting 2 weeks for a reply from one of your team",
+        "created_at": "Sun Nov 19 11:53:34 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "2249584",
+          "2249587"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "2249584",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@655475 ...sure you keep us posted. Thank you. ^RN",
+        "created_at": "Sun Nov 19 12:38:22 +0000 2017",
+        "in_response_to_tweet_id": "2249586",
+        "response_tweet_id": [
+          "2249585"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "2249587",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@655475 Hello there, I apologize for the delay. How can I assist you today? Can you clarify your current issue? Please be....^RN",
+        "created_at": "Sun Nov 19 12:38:16 +0000 2017",
+        "in_response_to_tweet_id": "2249586",
+        "response_tweet_id": [],
+        "depth": 1
+      },
+      {
+        "tweet_id": "2249585",
+        "author_id": "655475",
+        "inbound": true,
+        "text": "@ATVIAssist Do you want me to Dm you the issue? I was deranked on launch but still haven\u2019t been able to contact you..",
+        "created_at": "Tue Nov 21 03:46:19 +0000 2017",
+        "in_response_to_tweet_id": "2249584",
+        "response_tweet_id": [],
+        "depth": 2
+      }
+    ],
+    "conv_2710450": [
+      {
+        "tweet_id": "2710450",
+        "author_id": "761060",
+        "inbound": true,
+        "text": "@115766 fix your shitty servers I\u2019m tired of lagging out",
+        "created_at": "Mon Nov 20 00:29:30 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "2710449"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "2710449",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@761060 Are you on a wired or wireless connection? Can you hard reset your router and modem and try logging back in? ^EC",
+        "created_at": "Mon Nov 20 01:53:50 +0000 2017",
+        "in_response_to_tweet_id": "2710450",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_1629021": [
+      {
+        "tweet_id": "1629021",
+        "author_id": "498662",
+        "inbound": true,
+        "text": "Get ur fucking servers fixed @ATVIAssist",
+        "created_at": "Sun Nov 05 12:59:28 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1629020"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1629020",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@498662 Hi! Some players are experiencing connectivity issues. We're actively looking into getting this resolved. Stay tuned. ^FB",
+        "created_at": "Sun Nov 05 15:47:08 +0000 2017",
+        "in_response_to_tweet_id": "1629021",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_1605167": [
+      {
+        "tweet_id": "1605167",
+        "author_id": "184826",
+        "inbound": true,
+        "text": "@ATVIAssist guys any chance you could help me, im having an issue with my progression on #CODWWII",
+        "created_at": "Wed Nov 22 23:54:52 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1605166"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1605166",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@184826 Hi there, please send us a DM for further assistance. ^RK https://t.co/c9WoAfwenP",
+        "created_at": "Sun Nov 26 03:40:33 +0000 2017",
+        "in_response_to_tweet_id": "1605167",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_2419443": [
+      {
+        "tweet_id": "2419443",
+        "author_id": "695082",
+        "inbound": true,
+        "text": "@ATVIAssist I preordered COD WW2 &amp; am unable access https://t.co/t2Np4Nd6dj to follow steps on back of the pre-order card #504GatewayTimeout",
+        "created_at": "Sun Oct 29 02:47:48 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "2419441",
+          "2419446"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "2419441",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@695082 ... 2 should help. ^RN",
+        "created_at": "Sun Oct 29 12:18:51 +0000 2017",
+        "in_response_to_tweet_id": "2419443",
+        "response_tweet_id": [
+          "2419442"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "2419446",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@695082 Hello there, I apologize for the delay. Please make sure you refer here for more info: https://t.co/cm1idGIcwG.  Number...^RN",
+        "created_at": "Sun Oct 29 12:18:46 +0000 2017",
+        "in_response_to_tweet_id": "2419443",
+        "response_tweet_id": [],
+        "depth": 1
+      },
+      {
+        "tweet_id": "2419442",
+        "author_id": "695082",
+        "inbound": true,
+        "text": "@ATVIAssist It says my code was already redeemed.  I didn't get any notifications of it being redeemed last night.  I also didn't get an email.. #Help",
+        "created_at": "Sun Oct 29 15:10:08 +0000 2017",
+        "in_response_to_tweet_id": "2419441",
+        "response_tweet_id": [
+          "2419444"
+        ],
+        "depth": 2
+      },
+      {
+        "tweet_id": "2419444",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@695082 Have you been able to redeem the code before? Can you clarify where you received your code? Please let us know. ^RN",
+        "created_at": "Sun Oct 29 15:15:41 +0000 2017",
+        "in_response_to_tweet_id": "2419442",
+        "response_tweet_id": [
+          "2419445"
+        ],
+        "depth": 3
+      },
+      {
+        "tweet_id": "2419445",
+        "author_id": "695082",
+        "inbound": true,
+        "text": "@ATVIAssist Last night I got 504 timeout error and it never said successful. This morning it said it was redeemed I got it from Target yesterday",
+        "created_at": "Sun Oct 29 15:20:06 +0000 2017",
+        "in_response_to_tweet_id": "2419444",
+        "response_tweet_id": [],
+        "depth": 4
+      }
+    ],
+    "conv_504091": [
+      {
+        "tweet_id": "504091",
+        "author_id": "235501",
+        "inbound": true,
+        "text": "@ATVIAssist I am problem clean out my mail in headguaters",
+        "created_at": "Tue Nov 28 01:23:09 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "504090"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "504090",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@235501  Hello there, I apologize for the delay. Are you currently in need of assistance? Please be make sure you keep us updated. Thank you. ^RN",
+        "created_at": "Fri Dec 01 20:35:03 +0000 2017",
+        "in_response_to_tweet_id": "504091",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_2523113": [
+      {
+        "tweet_id": "2523113",
+        "author_id": "718553",
+        "inbound": true,
+        "text": "@ATVIAssist Appreciate the hard work addressing issues. It\u2019s tough job. I think everyone needs to be patient. Great game though! #CODWWII",
+        "created_at": "Thu Nov 09 15:17:20 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "2523112"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "2523112",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@718553 Thank you! We appreciate your support, if you ever have any questions feel free to reach back out to us. ^EC",
+        "created_at": "Thu Nov 16 02:04:10 +0000 2017",
+        "in_response_to_tweet_id": "2523113",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_572804": [
+      {
+        "tweet_id": "572804",
+        "author_id": "254605",
+        "inbound": true,
+        "text": "@ATVIAssist Sooooooo we just leaving headquarters empty or what?",
+        "created_at": "Tue Nov 28 23:12:06 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "572803"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "572803",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@254605 Apologies for the delay, things should be cleared up with the latest patch- are you still seeing this? ^NM",
+        "created_at": "Sun Dec 03 05:26:45 +0000 2017",
+        "in_response_to_tweet_id": "572804",
+        "response_tweet_id": [
+          "572802"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "572802",
+        "author_id": "254605",
+        "inbound": true,
+        "text": "@ATVIAssist Nah we good days later",
+        "created_at": "Sun Dec 03 05:27:13 +0000 2017",
+        "in_response_to_tweet_id": "572803",
+        "response_tweet_id": [
+          "572801"
+        ],
+        "depth": 2
+      },
+      {
+        "tweet_id": "572801",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@254605 Glad to hear that! Let us know if you run into any other issues ^NM",
+        "created_at": "Sun Dec 03 05:29:00 +0000 2017",
+        "in_response_to_tweet_id": "572802",
+        "response_tweet_id": [],
+        "depth": 3
+      }
+    ],
+    "conv_2353242": [
+      {
+        "tweet_id": "2353242",
+        "author_id": "680005",
+        "inbound": true,
+        "text": "@ATVIAssist Keep getting kicked out of local splitscreen zombies and getting \"request command not received\" error. This happened multiple times and it's really frustrating playing for 2 hours and getting kicked out like that. Also can't find any mp match on xbox one.",
+        "created_at": "Mon Nov 13 18:21:01 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "2353241"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "2353241",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@680005 Hey there, can you please send me a message via DM? More than happy to help. ^EX https://t.co/c9WoAfwenP",
+        "created_at": "Mon Nov 13 18:37:00 +0000 2017",
+        "in_response_to_tweet_id": "2353242",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_1504998": [
+      {
+        "tweet_id": "1504998",
+        "author_id": "469288",
+        "inbound": true,
+        "text": "@ATVIAssist Hi ! I am Having an issue With WW2 on ps4 . The Game says i have new items in the emblems but i cannot find it ! https://t.co/5UInA9j8e4",
+        "created_at": "Fri Nov 03 01:01:13 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1504996"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1504996",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@469288 Hello Zekyn, are you still unable to find the new emblems? \n\n^DA",
+        "created_at": "Fri Nov 03 16:08:30 +0000 2017",
+        "in_response_to_tweet_id": "1504998",
+        "response_tweet_id": [
+          "1504997"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "1504997",
+        "author_id": "469288",
+        "inbound": true,
+        "text": "@ATVIAssist Yes , still cannot find it ! Any solutions ?",
+        "created_at": "Fri Nov 03 16:53:25 +0000 2017",
+        "in_response_to_tweet_id": "1504996",
+        "response_tweet_id": [
+          "1504999"
+        ],
+        "depth": 2
+      },
+      {
+        "tweet_id": "1504999",
+        "author_id": "469288",
+        "inbound": true,
+        "text": "@ATVIAssist I Also have this multiplayer upgrade that i cannot take ! I press X but nothing happens https://t.co/Oc8eTPgWDQ",
+        "created_at": "Fri Nov 03 22:14:01 +0000 2017",
+        "in_response_to_tweet_id": "1504997",
+        "response_tweet_id": [],
+        "depth": 3
+      }
+    ],
+    "conv_1291623": [
+      {
+        "tweet_id": "1291623",
+        "author_id": "314543",
+        "inbound": true,
+        "text": "https://t.co/A3dCkM2cGr",
+        "created_at": "Mon Oct 16 04:41:38 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1291622"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1291622",
+        "author_id": "314543",
+        "inbound": true,
+        "text": "@ATVIAssist",
+        "created_at": "Mon Oct 16 04:43:16 +0000 2017",
+        "in_response_to_tweet_id": "1291623",
+        "response_tweet_id": [
+          "1291621"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "1291621",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@314543 Can you send us the prove on a DM https://t.co/c9WoAfwenP. if it is a video have to be on youtube. ^BW",
+        "created_at": "Mon Oct 16 08:43:02 +0000 2017",
+        "in_response_to_tweet_id": "1291622",
+        "response_tweet_id": [],
+        "depth": 2
+      }
+    ],
+    "conv_1730944": [
+      {
+        "tweet_id": "1730944",
+        "author_id": "523013",
+        "inbound": true,
+        "text": "@ATVIAssist any update on double xp not working for cod ww2. tried reaching out two other times",
+        "created_at": "Mon Nov 06 15:30:55 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1730942"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1730942",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@523013 Hello Soldier, can you please clear cache and head to the HQ and verify the tiems on your mail and let us know ^JR",
+        "created_at": "Tue Nov 07 11:53:27 +0000 2017",
+        "in_response_to_tweet_id": "1730944",
+        "response_tweet_id": [
+          "1730943"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "1730943",
+        "author_id": "523014",
+        "inbound": true,
+        "text": "@ATVIAssist @523013 How do you clear cache?",
+        "created_at": "Tue Nov 07 11:57:53 +0000 2017",
+        "in_response_to_tweet_id": "1730942",
+        "response_tweet_id": [
+          "1730945"
+        ],
+        "depth": 2
+      },
+      {
+        "tweet_id": "1730945",
+        "author_id": "523015",
+        "inbound": true,
+        "text": "@523014 @ATVIAssist @523013 what console you on ?",
+        "created_at": "Tue Nov 07 12:36:07 +0000 2017",
+        "in_response_to_tweet_id": "1730943",
+        "response_tweet_id": [
+          "1730946"
+        ],
+        "depth": 3
+      },
+      {
+        "tweet_id": "1730946",
+        "author_id": "523014",
+        "inbound": true,
+        "text": "@523015 @ATVIAssist @523013 Ps4",
+        "created_at": "Tue Nov 07 12:39:17 +0000 2017",
+        "in_response_to_tweet_id": "1730945",
+        "response_tweet_id": [
+          "1730947"
+        ],
+        "depth": 4
+      },
+      {
+        "tweet_id": "1730947",
+        "author_id": "523015",
+        "inbound": true,
+        "text": "@523014 https://t.co/fIQSjBmLTL AC",
+        "created_at": "Tue Nov 07 12:43:34 +0000 2017",
+        "in_response_to_tweet_id": "1730946",
+        "response_tweet_id": [
+          "1730948"
+        ],
+        "depth": 5
+      },
+      {
+        "tweet_id": "1730948",
+        "author_id": "523014",
+        "inbound": true,
+        "text": "@523015 Thanks",
+        "created_at": "Tue Nov 07 12:45:19 +0000 2017",
+        "in_response_to_tweet_id": "1730947",
+        "response_tweet_id": [],
+        "depth": 6
+      }
+    ],
+    "conv_790486": [
+      {
+        "tweet_id": "790486",
+        "author_id": "308502",
+        "inbound": true,
+        "text": "Hi @ATVIAssist on the xbox one I have the season pass for infinite warfare and cannot download dlc4 as it says I have to pay.",
+        "created_at": "Thu Oct 12 05:52:24 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "790487",
+          "790485"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "790485",
+        "author_id": "308503",
+        "inbound": true,
+        "text": "@308502 @ATVIAssist Same",
+        "created_at": "Thu Oct 12 06:43:27 +0000 2017",
+        "in_response_to_tweet_id": "790486",
+        "response_tweet_id": [
+          "790482"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "790482",
+        "author_id": "308502",
+        "inbound": true,
+        "text": "@308503 @ATVIAssist I ended up buying it :(",
+        "created_at": "Thu Oct 12 06:46:16 +0000 2017",
+        "in_response_to_tweet_id": "790485",
+        "response_tweet_id": [
+          "790483",
+          "790481",
+          "790484"
+        ],
+        "depth": 2
+      },
+      {
+        "tweet_id": "790481",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@308502 ...this may have caused. Please stay tuned for updates. ^FB",
+        "created_at": "Thu Oct 12 12:11:09 +0000 2017",
+        "in_response_to_tweet_id": "790482",
+        "response_tweet_id": [],
+        "depth": 3
+      },
+      {
+        "tweet_id": "790484",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@308502 Hi, we're aware of this issue and it is currently being looked into. Sorry for any frustrations and inconvenience... ^FB",
+        "created_at": "Thu Oct 12 12:11:02 +0000 2017",
+        "in_response_to_tweet_id": "790482",
+        "response_tweet_id": [
+          "790491"
+        ],
+        "depth": 3
+      },
+      {
+        "tweet_id": "790491",
+        "author_id": "308275",
+        "inbound": true,
+        "text": "@ATVIAssist @308502 There is a lot of Inconvenience",
+        "created_at": "Thu Oct 12 12:12:23 +0000 2017",
+        "in_response_to_tweet_id": "790484",
+        "response_tweet_id": [],
+        "depth": 4
+      }
+    ],
+    "conv_443987": [
+      {
+        "tweet_id": "443987",
+        "author_id": "220179",
+        "inbound": true,
+        "text": "Yo @115765  fix the glitch on pointe du hoc where ppl can get In the wall",
+        "created_at": "Fri Nov 17 22:00:56 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "443984"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "443984",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@220179 SHG is working on this now, be sure to report any glitchers you see in-game, the ban hammer will clear 'em out! ^NM",
+        "created_at": "Wed Nov 22 09:29:13 +0000 2017",
+        "in_response_to_tweet_id": "443987",
+        "response_tweet_id": [
+          "443985",
+          "443986"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "443985",
+        "author_id": "220180",
+        "inbound": true,
+        "text": "@ATVIAssist I Still Receive Error Code 5 And 1 When I Try To Login To Multiplayer",
+        "created_at": "Wed Nov 22 09:31:16 +0000 2017",
+        "in_response_to_tweet_id": "443984",
+        "response_tweet_id": [],
+        "depth": 2
+      },
+      {
+        "tweet_id": "443986",
+        "author_id": "220181",
+        "inbound": true,
+        "text": "@ATVIAssist solve the error code 1, 3 and 5, i cant play WWII MP! HELP",
+        "created_at": "Wed Nov 22 11:32:04 +0000 2017",
+        "in_response_to_tweet_id": "443984",
+        "response_tweet_id": [],
+        "depth": 2
+      }
+    ],
+    "conv_483514": [
+      {
+        "tweet_id": "483514",
+        "author_id": "230027",
+        "inbound": true,
+        "text": "@ATVIAssist unban",
+        "created_at": "Fri Dec 01 13:49:05 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "483513"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "483513",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@230027\n\nHey there. Please send us a DM along with your platform and gamertag. I'll be happy to help you out with this. ^JW https://t.co/c9WoAfwenP",
+        "created_at": "Fri Dec 01 14:34:13 +0000 2017",
+        "in_response_to_tweet_id": "483514",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_482239": [
+      {
+        "tweet_id": "482239",
+        "author_id": "229677",
+        "inbound": true,
+        "text": "So I was using the panzerschreck in a game and I got kicked and got this message. No idea what this means. @115766 @115765 @ATVIAssist #CODWWII https://t.co/ZqhXhh1ifq",
+        "created_at": "Fri Dec 01 12:49:57 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "482237"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "482237",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@229677 Hey. What's your region, gamertag and does this only appear when playing hardcore matches? ^SM",
+        "created_at": "Fri Dec 01 13:51:18 +0000 2017",
+        "in_response_to_tweet_id": "482239",
+        "response_tweet_id": [
+          "482238"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "482238",
+        "author_id": "229677",
+        "inbound": true,
+        "text": "@ATVIAssist I'm in North America on XB1. My gamertag is Z BOSS 01. This has only happened to me when playing hardcore",
+        "created_at": "Fri Dec 01 13:52:38 +0000 2017",
+        "in_response_to_tweet_id": "482237",
+        "response_tweet_id": [],
+        "depth": 2
+      }
+    ],
+    "conv_944030": [
+      {
+        "tweet_id": "944030",
+        "author_id": "343840",
+        "inbound": true,
+        "text": "@122172 is there any support for the Call of Duty Modern Warfare 3 yet?",
+        "created_at": "Sat Oct 21 05:42:00 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "944029"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "944029",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@343840 Hi there, pardon my delay. What can I help you with in this title? Could you tell me more via DM? ^AM https://t.co/c9WoAfwenP",
+        "created_at": "Sat Oct 21 16:37:06 +0000 2017",
+        "in_response_to_tweet_id": "944030",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_1797172": [
+      {
+        "tweet_id": "1797172",
+        "author_id": "540002",
+        "inbound": true,
+        "text": "@115758 how about fixing your shitty game and give me my money back, lost 6 dollars trying to get cod points",
+        "created_at": "Wed Oct 18 00:51:13 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1797171"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1797171",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@540002 Hi there, Sounds like you had troubles with a CoD Point purchase? Shoot over a DM let's troubleshoot. ^TE https://t.co/c9WoAfwenP",
+        "created_at": "Wed Oct 18 00:52:55 +0000 2017",
+        "in_response_to_tweet_id": "1797172",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_2702899": [
+      {
+        "tweet_id": "2702899",
+        "author_id": "759196",
+        "inbound": true,
+        "text": "@ATVIAssist @115754 @115766 Just found a dude on PSN glitching out of the map Pointe Du Hoc on WWII. Kinda ruined the game. His PSN is sum1002 https://t.co/QxobkKcFFF",
+        "created_at": "Sun Nov 19 21:16:35 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "2702898"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "2702898",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@759196 Hey there! We are currently aware of this issue and looking into it. Please report him with the reporting tool. ^MB",
+        "created_at": "Sun Nov 19 21:36:36 +0000 2017",
+        "in_response_to_tweet_id": "2702899",
+        "response_tweet_id": [],
+        "depth": 1
+      }
+    ],
+    "conv_1729828": [
+      {
+        "tweet_id": "1729828",
+        "author_id": "522794",
+        "inbound": true,
+        "text": "broke ass game @115766 @ATVIAssist @115765",
+        "created_at": "Sat Nov 04 19:56:30 +0000 2017",
+        "in_response_to_tweet_id": "",
+        "response_tweet_id": [
+          "1729826"
+        ],
+        "depth": 0
+      },
+      {
+        "tweet_id": "1729826",
+        "author_id": "ATVIAssist",
+        "inbound": false,
+        "text": "@522794 Please send me a message via DM. ^EX https://t.co/c9WoAfwenP",
+        "created_at": "Tue Nov 07 11:28:45 +0000 2017",
+        "in_response_to_tweet_id": "1729828",
+        "response_tweet_id": [
+          "1729827"
+        ],
+        "depth": 1
+      },
+      {
+        "tweet_id": "1729827",
+        "author_id": "522795",
+        "inbound": true,
+        "text": "@ATVIAssist @522794 You going to reply to my messages then? Pull your finger out and do some work",
+        "created_at": "Tue Nov 07 11:33:03 +0000 2017",
+        "in_response_to_tweet_id": "1729826",
+        "response_tweet_id": [],
+        "depth": 2
+      }
+    ]
+  }
+}

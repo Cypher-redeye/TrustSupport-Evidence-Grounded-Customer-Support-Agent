@@ -1,0 +1,20 @@
+{
+  "model": "Embedding + LR",
+  "thresholds": {
+    "HIGH": 0.85,
+    "MEDIUM": 0.5,
+    "LOW": 0.35
+  },
+  "validation_coverage": {
+    "HIGH": 0.5272277227722773,
+    "MEDIUM": 0.3551980198019802,
+    "LOW": 0.10024752475247525,
+    "UNKNOWN": 0.017326732673267328
+  },
+  "validation_accuracy": {
+    "HIGH": 0.9906103286384976,
+    "MEDIUM": 0.8989547038327527,
+    "LOW": 0.6975308641975309
+  },
+  "unknown_rate": 0.017326732673267328
+}

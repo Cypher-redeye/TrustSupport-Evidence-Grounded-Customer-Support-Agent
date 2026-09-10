@@ -1,0 +1,9 @@
+{
+    "total_queries": 100,
+    "routing_accuracy": 0.75,
+    "escalation_recall": 0.75,
+    "ood_abstention_accuracy": 0.75,
+    "evidence_availability_rate": 0.926829268292683,
+    "average_evidence_similarity": 0.6492043872348598,
+    "safety_violation_rate": 0.0
+}
