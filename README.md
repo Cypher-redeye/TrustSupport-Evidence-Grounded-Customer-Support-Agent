@@ -51,13 +51,13 @@ A router assigns a specific reply mode (`GROUNDED_REPLY`, `ESCALATE`, `ABSTAIN`)
 *The TrustSupport UI is designed for transparency and explainability.*
 
 ### Main Chat Interface
-*(Screenshot Placeholder: `assets/ui_main_chat.png`)*
+![Main Chat Interface](assets/ui_main_chat.png)
 
 ### Agent Diagnostics & Evidence Explorer
-*(Screenshot Placeholder: `assets/ui_diagnostics.png`)*
+![Agent Diagnostics & Evidence Explorer](assets/ui_diagnostics.png)
 
 ### Escalation Experience
-*(Screenshot Placeholder: `assets/ui_escalation.png`)*
+![Escalation Experience](assets/ui_escalation.png)
 
 ---
 
@@ -101,7 +101,7 @@ When you ask a question in the TrustSupport UI, here is what happens behind the 
 ### Option A: Run via Docker (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TrustSupport.git
+git clone https://github.com/Cypher-redeye/TrustSupport-Evidence-Grounded-Customer-Support-Agent.git
 cd TrustSupport
 
 # Copy environment variables
